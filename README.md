@@ -3,19 +3,20 @@
 </p>
 
 <a href="https://github.com/AadityaZenith">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7CF7D6&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Cloud+%7C+AI;Security+Automation;Full-Stack+Builder;Learning+by+Building" alt="Aaditya Zenith profile banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7CF7D6&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Cloud+%7C+AI;Security+Automation;Full-Stack+Builder;Learning+by+Building" alt="Aaditya Kumar profile banner" />
 </a>
 
 <p align="center">
   <a href="https://github.com/AadityaZenith"><img src="https://img.shields.io/badge/GitHub-AadityaZenith-0B1220?style=for-the-badge&logo=github&logoColor=7CF7D6" alt="GitHub" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7CF7D6" alt="Email" /></a>
+  <a href="mailto:adityakumar1215225@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7CF7D6" alt="Email" /></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Kumar-0B1220?style=for-the-badge&logo=linkedin&logoColor=7CF7D6" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/AadityaZenith.png" width="180" alt="Aaditya Zenith" />
+  <img src="https://github.com/AadityaZenith.png" width="180" alt="Aaditya Kumar" />
 </p>
 
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aaditya Zenith hero animation">
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aaditya Kumar hero animation">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#07111D"/>
@@ -40,7 +41,7 @@
   </circle>
   <path d="M 0 160 C 200 110, 360 220, 540 170 S 860 90, 1200 150 L 1200 220 L 0 220 Z" fill="#112333" opacity="0.65"/>
   <g fill="#EAFBFF" font-family="Segoe UI, sans-serif" font-weight="700">
-    <text x="60" y="95" font-size="34" letter-spacing="1.5">AADITYA ZENITH</text>
+    <text x="60" y="95" font-size="34" letter-spacing="1.5">AADITYA KUMAR</text>
     <text x="60" y="130" font-size="20" fill="#7CF7D6" font-weight="600">Cybersecurity • Cloud • AI • Builder</text>
   </g>
   <rect x="60" y="150" width="270" height="10" rx="5" fill="#7CF7D6" opacity="0.75">
@@ -110,7 +111,8 @@ currently:
 
 <p align="center">
   <a href="https://github.com/AadityaZenith"><img src="https://img.shields.io/badge/GitHub-AadityaZenith-101820?style=for-the-badge&logo=github&logoColor=7CF7D6" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-101820?style=for-the-badge&logo=linkedin&logoColor=7CF7D6" alt="LinkedIn" /></a>
+  <a href="mailto:adityakumar1215225@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Aaditya-101820?style=for-the-badge&logo=gmail&logoColor=7CF7D6" alt="Email" /></a>
+  <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Kumar-101820?style=for-the-badge&logo=linkedin&logoColor=7CF7D6" alt="LinkedIn" /></a>
 </p>
 
 > I’m interested in practical work at the intersection of security, cloud, and AI.
