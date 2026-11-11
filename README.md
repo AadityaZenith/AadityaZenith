@@ -3,17 +3,13 @@
 </p>
 
 <a href="https://github.com/AadityaZenith">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7CF7D6&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Cloud+%7C+AI;Security+Automation;Full-Stack+Builder;Learning+by+Building" alt="Aaditya Kumar profile banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=7CF7D6&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Cloud+%7C+AI+%7C+Builder" alt="Aaditya Kumar — Cybersecurity, Cloud & AI" />
 </a>
 
 <p align="center">
   <a href="https://github.com/AadityaZenith"><img src="https://img.shields.io/badge/GitHub-AadityaZenith-0B1220?style=for-the-badge&logo=github&logoColor=7CF7D6" alt="GitHub" /></a>
   <a href="mailto:adityakumar1215225@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7CF7D6" alt="Email" /></a>
   <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Kumar-0B1220?style=for-the-badge&logo=linkedin&logoColor=7CF7D6" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AadityaZenith.png" width="180" alt="Aaditya Kumar" />
 </p>
 
 <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aaditya Kumar hero animation">
@@ -56,7 +52,7 @@ Aaditya Kumar
 Cybersecurity student, cloud engineer, AI builder, and hands-on problem solver.
 ```
 
-I'm a developer and technical learner focused on building practical systems at the intersection of security, cloud, and AI. I enjoy turning complex ideas into working solutions and sharing what I learn with the community.
+I'm a developer and technical learner focused on building practical systems at the intersection of security, cloud, and AI. I enjoy turning complex ideas into working solutions and sharing what I learn with others.
 
 ```yaml
 currently:
@@ -90,19 +86,19 @@ currently:
 
 <p align="center">
   <a href="https://github.com/AadityaZenith">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AadityaZenith&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7CF7D6&icon_color=7C8CFF&text_color=E6EDF3" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AadityaZenith&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7CF7D6&icon_color=7C8CFF&text_color=E6EDF3" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/AadityaZenith">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaZenith&layout=pie&hide_border=true&bg_color=0B1220&title_color=7CF7D6&text_color=E6EDF3" alt="Pie chart of most-used languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaZenith&layout=pie&hide_border=true&bg_color=0B1220&title_color=7CF7D6&text_color=E6EDF3" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaZenith&bg_color=0B1220&color=E6EDF3&line=7CF7D6&point=7C8CFF&area=true&hide_border=true" alt="GitHub contributions activity bar graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaZenith&bg_color=0B1220&color=E6EDF3&line=7CF7D6&point=7C8CFF&area=true&hide_border=true" alt="GitHub contribution graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AadityaZenith&hide_border=true&background=0B1220&ring=7CF7D6&fire=7C8CFF&currStreakLabel=7CF7D6&sideLabels=E6EDF3&dates=8B9BB4&currStreakNum=E6EDF3" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AadityaZenith&hide_border=true&background=0B1220&ring=7CF7D6&fire=7C8CFF&currStreakLabel=7CF7D6&sideLabels=E6EDF3&dates=8B9BB4&currStreakNum=E6EDF3" alt="Current streak" />
 </p>
 
 <sub>Stats and charts are rendered by third-party services and may occasionally be delayed or unavailable.</sub>
