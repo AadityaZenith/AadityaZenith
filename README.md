@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://github.com/AadityaZenith"><img src="https://img.shields.io/badge/GitHub-AadityaZenith-0B1220?style=for-the-badge&logo=github&logoColor=7CF7D6" alt="GitHub" /></a>
-  <a href="https://github.com/AadityaZenith?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0B1220?style=for-the-badge&logo=github&logoColor=7CF7D6" alt="Explore projects" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Contact-Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7CF7D6" alt="Email" /></a>
 </p>
 
@@ -29,27 +28,21 @@
       <stop offset="100%" stop-color="#0B1220" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
   <rect x="0" y="0" width="1200" height="220" rx="22" fill="url(#bg)"/>
-
   <circle cx="180" cy="110" r="120" fill="url(#pulseGlow)" opacity="0.8">
     <animate attributeName="cx" values="180;1020;180" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="110;95;110" dur="9s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.35;0.9;0.35" dur="7s" repeatCount="indefinite"/>
   </circle>
-
   <circle cx="910" cy="60" r="92" fill="url(#pulseGlow)" opacity="0.5">
     <animate attributeName="r" values="50;110;50" dur="8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.2;0.7;0.2" dur="6s" repeatCount="indefinite"/>
   </circle>
-
   <path d="M 0 160 C 200 110, 360 220, 540 170 S 860 90, 1200 150 L 1200 220 L 0 220 Z" fill="#112333" opacity="0.65"/>
-
   <g fill="#EAFBFF" font-family="Segoe UI, sans-serif" font-weight="700">
     <text x="60" y="95" font-size="34" letter-spacing="1.5">AADITYA ZENITH</text>
     <text x="60" y="130" font-size="20" fill="#7CF7D6" font-weight="600">Cybersecurity • Cloud • AI • Builder</text>
   </g>
-
   <rect x="60" y="150" width="270" height="10" rx="5" fill="#7CF7D6" opacity="0.75">
     <animate attributeName="width" values="60;270;60" dur="4s" repeatCount="indefinite"/>
   </rect>
@@ -70,51 +63,10 @@ currently:
     - Cybersecurity & security automation
     - Microsoft Azure & cloud-native architecture
     - AI-powered tools & full-stack apps
-    - Technical training & community building
+    - Open-source learning and community
   approach: "Learn deeply. Build practically. Share openly."
   base: India
 ```
-
-## `mission.log` — What I build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🛡️ Security Automation
-Practical security tooling, defensive workflows, and research-driven experiments that help teams understand and improve system resilience.
-
-`Cybersecurity` `Automation` `Threat Modeling`
-
-    </td>
-    <td width="50%" valign="top">
-
-### ☁️ Cloud Engineering
-Hands-on cloud and platform work focused on Azure services, APIs, infrastructure, and reliable deployment patterns.
-
-`Azure` `Cloud` `DevOps`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🤖 AI-Powered Products
-Building user-focused AI experiences that combine model intelligence with practical software engineering and real-world utility.
-
-`AI/ML` `Full Stack` `Product Thinking`
-
-    </td>
-    <td width="50%" valign="top">
-
-### 📚 Technical Education
-I enjoy simplifying complex topics through structured workshops, learn-by-doing explanations, and practical labs.
-
-`Training` `Mentorship` `Technical Writing`
-
-    </td>
-  </tr>
-</table>
 
 ## `toolkit --list`
 
@@ -137,16 +89,22 @@ I enjoy simplifying complex topics through structured workshops, learn-by-doing 
 
 <p align="center">
   <a href="https://github.com/AadityaZenith">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AadityaZenith&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7CF7D6&icon_color=7C8CFF&text_color=E6EDF3&count_private=true" alt="GitHub stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=AadityaZenith&show_icons=true&hide_border=true&bg_color=0B1220&title_color=7CF7D6&icon_color=7C8CFF&text_color=E6EDF3" alt="GitHub stats" />
   </a>
   <a href="https://github.com/AadityaZenith">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaZenith&layout=compact&hide_border=true&bg_color=0B1220&title_color=7CF7D6&text_color=E6EDF3" alt="Top languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaZenith&layout=pie&hide_border=true&bg_color=0B1220&title_color=7CF7D6&text_color=E6EDF3" alt="Pie chart of most-used languages" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadityaZenith&bg_color=0B1220&color=E6EDF3&line=7CF7D6&point=7C8CFF&area=true&hide_border=true" alt="GitHub contributions activity bar graph" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AadityaZenith&hide_border=true&background=0B1220&ring=7CF7D6&fire=7C8CFF&currStreakLabel=7CF7D6&sideLabels=E6EDF3&dates=8B9BB4&currStreakNum=E6EDF3" alt="GitHub streak" />
 </p>
+
+<sub>Stats and charts are rendered by third-party services and may occasionally be delayed or unavailable.</sub>
 
 ## `connect --secure`
 
@@ -155,7 +113,7 @@ I enjoy simplifying complex topics through structured workshops, learn-by-doing 
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Profile-101820?style=for-the-badge&logo=linkedin&logoColor=7CF7D6" alt="LinkedIn" /></a>
 </p>
 
-> Have a meaningful idea? I’m interested in practical projects at the intersection of security, cloud, and AI.
+> I’m interested in practical work at the intersection of security, cloud, and AI.
 
 <img src="assets/neon-divider.svg" alt="divider" width="100%" />
 
